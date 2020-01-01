@@ -1,0 +1,3 @@
+[submodule "blox.partial.socialbar.quiz"]
+	path = blox.partial.socialbar.quiz
+	url = https://github.com/richjava/blox.partial.socialbar.quiz.git
